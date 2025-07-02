@@ -1,6 +1,6 @@
 # === WP Content Age Highlighter ===
-Contributors: humayun-sarfraz
-Tags: content age, stale content, outdated, badge, warning, admin, posts, woocommerce, custom post type
+Contributors: humayun-sarfraz \n
+Tags: content age, stale content, outdated, badge, warning, admin, posts, woocommerce, custom post type \n
 Requires at least: 5.0
 Tested up to: 6.5
 Stable tag: 1.0.0
