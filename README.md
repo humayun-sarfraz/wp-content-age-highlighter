@@ -1,11 +1,18 @@
 # === WP Content Age Highlighter ===
-Contributors: humayun-sarfraz \n
-Tags: content age, stale content, outdated, badge, warning, admin, posts, woocommerce, custom post type \n
+Contributors: humayun-sarfraz
+
+Tags: content age, stale content, outdated, badge, warning, admin, posts, woocommerce, custom post type
+
 Requires at least: 5.0
+
 Tested up to: 6.5
+
 Stable tag: 1.0.0
+
 Requires PHP: 7.2
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Automatically flags "old" or "stale" content on your site with a customizable badge or warning (e.g., “This article is over 2 years old”). Fully customizable and works with all public post types.
