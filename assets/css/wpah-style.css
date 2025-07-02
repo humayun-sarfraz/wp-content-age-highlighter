@@ -1,0 +1,25 @@
+.wpah-badge {
+    margin-bottom: 18px;
+    padding: 12px 18px;
+    border-radius: 6px;
+    font-size: 1.05em;
+    font-weight: 600;
+    display: block;
+    background: #fffbe5;
+    color: #735c0f;
+    border: 1px solid #ffe58f;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.04);
+    max-width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.wpah-style-default { background: #fffbe5; color: #735c0f; border-color: #ffe58f; }
+.wpah-style-danger  { background: #fff1f0; color: #a8071a; border-color: #ffa39e; }
+.wpah-style-info    { background: #e6f7ff; color: #0050b3; border-color: #91d5ff; }
+.wpah-style-custom  { background: #f0f8ff; color: #006d75; border-color: #e0e8f0; }
+.wpah-pos-top    { margin-top: 0; }
+.wpah-pos-bottom { margin-bottom: 0; margin-top: 24px; }
+@media (max-width:600px){
+    .wpah-badge { font-size: 0.97em; padding: 10px 9px; }
+}
